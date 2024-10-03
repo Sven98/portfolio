@@ -1,0 +1,14 @@
+* {
+    border: none;
+    margin: 0;
+}
+
+h1, p, a {
+    text-decoration: none;
+}
+
+ul, li {
+    list-style: none;
+    border: none;
+    margin: 0;
+}
